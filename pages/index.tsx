@@ -4,7 +4,7 @@ import Link from 'next/link'
 const Home: NextPage = () => {
   return (
     <div className= 'bg-green-500'>
-      <p> Página de Index prueba dev  </p>
+      <p> Página de Index Prueba Dev</p>
      <Link href="/admin/usuarios">
        <a>Ir a admin usuarios</a>
      </Link>
